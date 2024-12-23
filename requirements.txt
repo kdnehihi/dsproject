@@ -2,4 +2,6 @@ pandas
 numpy
 seaborn
 nba_api
+ipykernel
+matplotlib
 -e .
