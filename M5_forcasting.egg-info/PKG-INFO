@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: M5_forcasting
+Version: 0.0.1
+Author: Khoa Tran
+Author-email: dinhdangkhoatran2005@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: nba_api
+Requires-Dist: ipykernel
+Requires-Dist: matplotlib
+Requires-Dist: datetime
+Requires-Dist: scikit-learn
+Requires-Dist: pathlib
+Requires-Dist: lightgbm

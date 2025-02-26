@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->list[str]:
     return requirements
 
 setup(
-    name='dsproject',
+    name='M5_forcasting',
     version= '0.0.1',
     author='Khoa Tran',
     author_email= 'dinhdangkhoatran2005@gmail.com',
